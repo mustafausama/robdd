@@ -34,6 +34,6 @@ You can run the project by running the command: `node index` in the root directo
 
 Examples of the generated images
 <p float="left">
-  <img src="result-images/2023-01-05-04-42-21.png" width="100" />
-  <img src="result-images/2023-01-05-04-43-37.png" width="100" /> 
+  <kbd><img src="result-images/2023-01-05-04-42-21.png" width="100" /></kbd>
+  <kbd><img src="result-images/2023-01-05-04-43-37.png" width="100" /></kbd>
 </p>
